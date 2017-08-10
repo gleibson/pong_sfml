@@ -1,0 +1,5 @@
+﻿  Pong.cpp
+c:\users\gleibson\documents\visual studio 2015\projects\pong\pong\pong.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gleibson\documents\visual studio 2015\projects\pong\pong\pong.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\gleibson\Documents\Visual Studio 2015\Projects\Pong\Debug\Pong.exe
+  Pong.vcxproj -> C:\Users\gleibson\Documents\Visual Studio 2015\Projects\Pong\Debug\Pong.pdb (Partial PDB)
